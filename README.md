@@ -1,7 +1,7 @@
 # RahulSingh4au-
 
 Hi there 👋
-![Alt text](![fbc6f31bd3b84159470b973aca7e0f97](https://github.com/user-attachments/assets/de10d8cd-f0ac-4b77-b394-c24b08cfdd1f))
+![](![fbc6f31bd3b84159470b973aca7e0f97](https://github.com/user-attachments/assets/de10d8cd-f0ac-4b77-b394-c24b08cfdd1f))
 
 
  A little more about me...
