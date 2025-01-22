@@ -17,7 +17,7 @@ const Rahul = {
     funFact: "There are two ways to write error-free programs,only the third one works"
 };
 ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am interesting to talk with different people on different new technologies like Blockchain,Development etc.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am interested to talk with different people on different new technologies like Blockchain Development, IoT, Cloud Computing etc.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 **Programming Languages**
 <br><br><img title="solidity" alt="solidity" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/solidity/solidity.png"> | 
