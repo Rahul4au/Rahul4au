@@ -5,14 +5,15 @@
 
 ```javascript
 const Rahul = {
-    pronouns: "He" | "His",
+    pronouns: "He" | "Him",
     code: ["Solidity", "JavaScript", "Python"],
     askMeAbout: ["Blockchain Technology", "Cryptography", "Web Development"],
     technologies: {
         frontEnd: {
-            basicTech: ["HTML", "CSS", "JavaScript", "TypeScript", "ReactJs", "NextJs"]
+            basicTech: ["HTML", "CSS", "JavaScript", "ReactJs"]
         },
-    currentFocus: "Exploring the E2E Lifecycle Management for achieving a Net-Zero Transition through Blockchain Technology.",
+    development Tools:{ Truffle, Hardhat }
+    currentFocus: "Focused on building innovative blockchain solutions and smart contract integrations for decentralized applications.",
     funFact: "There are two ways to write error-free programs,only the third one works"
 };
 ```
