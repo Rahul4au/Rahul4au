@@ -21,8 +21,8 @@ const Rahul = {
 
 **Programming Languages**
 <br><br><img title="solidity" alt="solidity" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/solidity/solidity.png"> | 
-<img title="Python" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | 
-<img alt="JS" title="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | 
+<img title="Python" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> |  
+<img alt="JS" title="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">  |  
 <img alt="TS" title="TypeScript" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">  
 
 <!-- footer image -->
