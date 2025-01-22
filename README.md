@@ -1,10 +1,9 @@
 # RahulSingh4au-
 
 Hi there 👋
-![](C:\Users\Rahul\Downloads\fbc6f31bd3b84159470b973aca7e0f97.gif)
+![](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 
-
- A little more about me...
+# A little more about me...
 
 ```javascript
 const Rahul = {
