@@ -1,7 +1,7 @@
 # RahulSingh4au-
 
 Hi there 👋
-![](![fbc6f31bd3b84159470b973aca7e0f97](https://github.com/user-attachments/assets/de10d8cd-f0ac-4b77-b394-c24b08cfdd1f))
+![](C:\Users\Rahul\Downloads\fbc6f31bd3b84159470b973aca7e0f97.gif)
 
 
  A little more about me...
