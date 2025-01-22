@@ -5,7 +5,7 @@ Hi there 👋
 
  A little more about me...
 
-```
+```javascript
 const Rahul = {
     pronouns: "He" | "His",
     code: ["Solidity", "JavaScript", "Python"],
