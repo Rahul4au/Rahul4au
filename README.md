@@ -1,7 +1,8 @@
 # RahulSingh4au-
 
 Hi there 👋
-![Alt text](https://media.istockphoto.com/id/1339123353/video/cryptocurrency-blockchain-script-coding-looped-4k-footage.jpg?s=640x640&k=20&c=FkwXBoCZk--V3PmHxvOzBZgorVo26kyX03ONqB_spgs=](https://miro.medium.com/v2/resize:fit:1358/1*xnvIXeS5SidMSdc2bq-ANQ.gif](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)))
+![Alt text](![fbc6f31bd3b84159470b973aca7e0f97](https://github.com/user-attachments/assets/d03764fd-4709-4448-be50-840cd58a154e))
+
 
  A little more about me...
 
