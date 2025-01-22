@@ -7,7 +7,7 @@
 const Rahul = {
     pronouns: "He" | "Him",
     code: ["Solidity", "JavaScript", "Python"],
-    askMeAbout: ["Blockchain Technology", "Cryptography", "Web Development"],
+    askMeAbout: ["Blockchain Technology", "Cryptography", "Digital Forensics", "Bitcoin", "CyberSecurity"],
     technologies: { Blockchain, Ethereum, HyperLedger Fabric }
         frontEnd: {
             basicTech: ["HTML", "CSS", "JavaScript", "ReactJs"]
